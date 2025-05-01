@@ -9,4 +9,3 @@ The project is a collaborative effort with IHE Pharmacy, involving also the deve
 
 [IG Build R5](https://build.fhir.org/ig/hl7-eu/mpd/branches/r5/)
 
-
